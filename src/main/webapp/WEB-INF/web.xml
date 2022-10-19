@@ -10,15 +10,15 @@
   </context-param>
   <context-param>
     <param-name>dbPassword</param-name>
-    <param-value>welcome1</param-value>
+    <param-value>admin1234</param-value>
   </context-param>
   <context-param>
     <param-name>dbURL</param-name>
-    <param-value>jdbc:mysql://lwplabs.cojh5a5pj8rf.us-east-1.rds.amazonaws.com:3306</param-value>
+    <param-value>jdbc:mysql://lwplab.c8vryexxnken.ap-south-1.rds.amazonaws.com:3306</param-value>
   </context-param>
   <context-param>
     <param-name>dbName</param-name>
-    <param-value>lwplabs</param-value>
+    <param-value>homeloan</param-value>
   </context-param>
   <servlet>
   	<servlet-name>LoginServlet</servlet-name>
