@@ -6,7 +6,7 @@ database username: admin
 database password: welcome1
 
 If you are using another user then needs to be changed in java file: DbUtil.java
-
+.
 mysql> create database flipkart;
 
 mysql> use flipkart;
